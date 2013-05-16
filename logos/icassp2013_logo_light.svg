@@ -14,7 +14,10 @@
    id="svg6052"
    version="1.1"
    inkscape:version="0.48.2 r9819"
-   sodipodi:docname="icassp2013_logo_darkbg.svg">
+   sodipodi:docname="icassp2013_logo_light.svg"
+   inkscape:export-filename="icassp2013_logo_light.png"
+   inkscape:export-xdpi="207.07001"
+   inkscape:export-ydpi="207.07001">
   <defs
      id="defs6054">
     <clipPath
@@ -57,9 +60,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8"
-     inkscape:cx="201.42857"
-     inkscape:cy="54.571461"
+     inkscape:zoom="2.0453575"
+     inkscape:cx="138.58986"
+     inkscape:cy="43.74071"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="false"
@@ -80,7 +83,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -90,7 +93,7 @@
      inkscape:label="bg"
      transform="translate(-157.30304,-464.5621)">
     <rect
-       style="color:#000000;fill:#43820f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:#6c0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect7646"
        width="434.64285"
        height="123.92858"
