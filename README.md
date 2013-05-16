@@ -14,10 +14,6 @@ Author
 ------
 Author: Steven Van Vaerenbergh (steven2358atgmaildotcom)
 
-Disclaimer
-----------
-All logos are copyright &copy; their respective copyright owners. I converted them to vector format for better distribution.
-
 Contents
 --------
 Currently the following logos are included:
@@ -25,3 +21,7 @@ Currently the following logos are included:
 - IEEE: light on dark
 - IEEE region8: light on dark
 - IEEE SPS: light on dark and dark on light. This logo includes the notorious missing dot.
+
+Disclaimer
+----------
+All logos are copyright &copy; their respective copyright owners. I converted them to vector format for better distribution.
