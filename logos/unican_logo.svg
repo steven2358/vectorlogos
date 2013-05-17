@@ -17,8 +17,8 @@
    xml:space="preserve"
    sodipodi:docname="unican_logo.svg"
    inkscape:export-filename="unican_logo.png"
-   inkscape:export-xdpi="302.10001"
-   inkscape:export-ydpi="302.10001"><metadata
+   inkscape:export-xdpi="305.51999"
+   inkscape:export-ydpi="305.51999"><metadata
      id="metadata8"><rdf:RDF><cc:Work
          rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
@@ -42,7 +42,7 @@
      fit-margin-bottom="0"
      showborder="true"
      inkscape:zoom="3.734315"
-     inkscape:cx="132.68761"
+     inkscape:cx="122.51172"
      inkscape:cy="92.759947"
      inkscape:window-x="-4"
      inkscape:window-y="-4"
@@ -54,7 +54,7 @@
      transform="translate(-1.3964875,-1.16455)"><path
        inkscape:connector-curvature="0"
        id="path14"
-       style="fill:#4a6474;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       style="fill:#005c64;fill-opacity:1;fill-rule:nonzero;stroke:none"
        d="m 1.3964875,177.91455 176.7500025,0 0,-176.75 -176.7500025,0 0,176.75 z" /></g><g
      id="g10"
      inkscape:groupmode="layer"
