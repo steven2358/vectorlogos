@@ -10,17 +10,22 @@ File format
 -----------
 All files are provided in SVG format, plus a bitmap screenshot in PNG format. Use a vector drawing program such as [Inkscape](http://www.inkscape.org) to edit the SVG.
 
-Author
-------
-Author: Steven Van Vaerenbergh
+Included logos
+--------------
 
-Contents
---------
-Currently the following logos are included:
-- ICASSP 2013: light on dark
-- IEEE: light on dark
-- IEEE region8: light on dark
-- IEEE SPS: light on dark and dark on light. This logo includes the notorious missing dot.
+### ICASSP 2013
+![ICASSP 2013](https://raw.github.com/steven2358/vectorlogos/master/logos/icassp2013_logo_light.png)
+
+### IEEE
+![IEEE](https://raw.github.com/steven2358/vectorlogos/master/logos/ieee_logo_light.png)
+
+### IEEE region 8
+![IEEE region 8](https://raw.github.com/steven2358/vectorlogos/master/logos/ieee_region8_logo_light.png)
+
+### IEEE SPS
+This logo includes the notorious missing dot.
+![IEEE SPS](https://raw.github.com/steven2358/vectorlogos/master/logos/ieee_sps_logo_light.png)
+![IEEE SPS](https://raw.github.com/steven2358/vectorlogos/master/logos/ieee_sps_logo_dark.png)
 
 Disclaimer
 ----------
