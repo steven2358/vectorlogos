@@ -12,7 +12,7 @@ All files are provided in SVG format, plus a bitmap screenshot in PNG format. Us
 
 Author
 ------
-Author: Steven Van Vaerenbergh (steven2358atgmaildotcom)
+Author: Steven Van Vaerenbergh
 
 Contents
 --------
@@ -24,4 +24,4 @@ Currently the following logos are included:
 
 Disclaimer
 ----------
-All logos are copyright &copy; their respective copyright owners. I converted them to vector format for better distribution.
+All logos are copyright &copy; their respective copyright owners. I merely converted them to vector format to avoid aesthetic catastrophes.
