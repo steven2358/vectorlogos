@@ -8,7 +8,7 @@ Logos in vector format have smaller file sizes *and* better resolution. Can't be
 
 File format
 -----------
-All files are provided in SVG format, plus a bitmap screenshot in PNG format. Use a vector drawing program such as [http://www.inkscape.org](Inkscape) to edit the SVG.
+All files are provided in SVG format, plus a bitmap screenshot in PNG format. Use a vector drawing program such as [Inkscape](http://www.inkscape.org) to edit the SVG.
 
 Author
 ------
