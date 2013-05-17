@@ -6,6 +6,10 @@ Why?
 ----
 Logos in vector format have smaller file sizes *and* better resolution. Can't beat that.
 
+No, seriously. Why?
+-------------------
+These are logos I am using in my work. I thought I might share them.
+
 File format
 -----------
 All files are provided in SVG format, plus a bitmap screenshot in PNG format. Use a vector drawing program such as [Inkscape](http://www.inkscape.org) to edit the SVG.
@@ -31,6 +35,9 @@ This logo includes the notorious missing dot.
 ### Universidad Carlos III de Madrid
 ![UC3M](https://raw.github.com/steven2358/vectorlogos/master/logos/uc3m_logo.png)
 ![UC3M](https://raw.github.com/steven2358/vectorlogos/master/logos/uc3m_logo_light.png)
+
+### Universidad de Cantabria
+![UNICAN](https://raw.github.com/steven2358/vectorlogos/master/logos/unican_logo.png)
 
 Disclaimer
 ----------
