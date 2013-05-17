@@ -2,6 +2,10 @@ Vector Logos
 ============
 A collection of logos.
 
+File format
+-----------
+All files are provided in SVG format, plus a bitmap screenshot in PNG format. Use a vector drawing program such as [Inkscape](http://www.inkscape.org) to edit the SVG.
+
 Why?
 ----
 Logos in vector format have smaller file sizes *and* better resolution. Can't beat that.
@@ -9,10 +13,6 @@ Logos in vector format have smaller file sizes *and* better resolution. Can't be
 No, seriously. Why?
 -------------------
 These are logos I am using in my work. I thought I might share them.
-
-File format
------------
-All files are provided in SVG format, plus a bitmap screenshot in PNG format. Use a vector drawing program such as [Inkscape](http://www.inkscape.org) to edit the SVG.
 
 Included logos
 --------------
