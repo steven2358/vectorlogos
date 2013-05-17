@@ -14,6 +14,7 @@ Included logos
 --------------
 
 ### ICASSP 2013
+![ICASSP 2013](https://raw.github.com/steven2358/vectorlogos/master/logos/icassp2013_logo.png)
 ![ICASSP 2013](https://raw.github.com/steven2358/vectorlogos/master/logos/icassp2013_logo_light.png)
 
 ### IEEE
@@ -24,8 +25,12 @@ Included logos
 
 ### IEEE SPS
 This logo includes the notorious missing dot.
+![IEEE SPS](https://raw.github.com/steven2358/vectorlogos/master/logos/ieee_sps_logo.png)
 ![IEEE SPS](https://raw.github.com/steven2358/vectorlogos/master/logos/ieee_sps_logo_light.png)
-![IEEE SPS](https://raw.github.com/steven2358/vectorlogos/master/logos/ieee_sps_logo_dark.png)
+
+### Universidad Carlos III de Madrid
+![UC3M](https://raw.github.com/steven2358/vectorlogos/master/logos/uc3m_logo.png)
+![UC3M](https://raw.github.com/steven2358/vectorlogos/master/logos/uc3m_logo_light.png)
 
 Disclaimer
 ----------
