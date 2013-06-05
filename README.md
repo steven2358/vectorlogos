@@ -36,8 +36,9 @@ This logo includes the notorious missing dot.
 ![UC3M](https://raw.github.com/steven2358/vectorlogos/master/logos/uc3m_logo.png)
 ![UC3M](https://raw.github.com/steven2358/vectorlogos/master/logos/uc3m_logo_light.png)
 
-### Universidad de Cantabria
-![UNICAN](https://raw.github.com/steven2358/vectorlogos/master/logos/unican_logo.png)
+### European Research Council
+![ERC](https://raw.github.com/steven2358/vectorlogos/master/logos/erc_logo.png)
+![ERC](https://raw.github.com/steven2358/vectorlogos/master/logos/erc_logo_light.png)
 
 Disclaimer
 ----------
