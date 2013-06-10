@@ -4,7 +4,7 @@ A collection of logos.
 
 File format
 -----------
-All files are provided in SVG format, plus a bitmap screenshot in PNG format. Use a vector drawing program such as [Inkscape](http://www.inkscape.org) to edit the SVG.
+All files are provided in SVG format, plus a bitmap screenshot in PNG format. Use a vector drawing program such as [Inkscape](http://www.inkscape.org) to edit or convert the SVG.
 
 Why?
 ----
@@ -35,6 +35,9 @@ This logo includes the notorious missing dot.
 ### Universidad Carlos III de Madrid
 ![UC3M](https://raw.github.com/steven2358/vectorlogos/master/logos/uc3m_logo.png)
 ![UC3M](https://raw.github.com/steven2358/vectorlogos/master/logos/uc3m_logo_light.png)
+
+### Universidad de Cantabria
+![UNICAN](https://raw.github.com/steven2358/vectorlogos/master/logos/unican_logo.png)
 
 ### European Research Council
 ![ERC](https://raw.github.com/steven2358/vectorlogos/master/logos/erc_logo.png)
