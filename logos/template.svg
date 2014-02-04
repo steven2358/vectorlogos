@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="410.63684"
+   height="99.482971"
+   id="svg6052">
+  <defs
+     id="defs6054">
+    <clipPath
+       id="clipPath3071">
+      <path
+         d="m 226.501,715.58 302.998,0 0,58.42 -302.998,0 0,-58.42 z"
+         id="path3073" />
+    </clipPath>
+    <clipPath
+       id="clipPath3047">
+      <path
+         d="m 226.501,715.58 302.998,0 0,58.42 -302.998,0 0,-58.42 z"
+         id="path3049" />
+    </clipPath>
+    <clipPath
+       id="clipPath3015">
+      <path
+         d="m 226.501,715.58 302.998,0 0,58.42 -302.998,0 0,-58.42 z"
+         id="path3017" />
+    </clipPath>
+    <clipPath
+       id="clipPath2999">
+      <path
+         d="m 226.501,715.58 302.998,0 0,58.42 -302.998,0 0,-58.42 z"
+         id="path3001" />
+    </clipPath>
+  </defs>
+  <metadata
+     id="metadata6057">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-169.30605,-478.78491)"
+     id="layer2"
+     style="display:inline">
+    <rect
+       width="410.63684"
+       height="99.482971"
+       x="169.30605"
+       y="478.78491"
+       id="rect7646"
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+  </g>
+  <g
+     transform="translate(-169.30605,-478.78491)"
+     id="layer1">
+    <g
+       transform="matrix(1.25,0,0,-1.25,-97.304399,1462.9917)"
+       id="g2995" />
+    <rect
+       width="379.39578"
+       height="74.803551"
+       x="184.92657"
+       y="491.12463"
+       id="rect3132"
+       style="color:#000000;fill:#ffcc00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+  </g>
+</svg>
