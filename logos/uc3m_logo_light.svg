@@ -13,7 +13,7 @@
    height="240.92139"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.2 r9819"
+   inkscape:version="0.48.4 r9939"
    sodipodi:docname="uc3m_logo_light.svg"
    inkscape:export-filename="uc3m_logo_light.png"
    inkscape:export-xdpi="223.2"
@@ -28,10 +28,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="3.000849"
-     inkscape:cx="93.671891"
-     inkscape:cy="112.43411"
+     inkscape:cx="117.5736"
+     inkscape:cy="96.031801"
      inkscape:document-units="px"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer2"
      showgrid="false"
      fit-margin-top="0"
      fit-margin-left="0"
@@ -52,7 +52,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -227,7 +227,7 @@
            id="path3127" />
         <path
            id="path3129"
-           style="fill:#ffffff;stroke:#231f20;stroke-width:0.06849463;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.61310005;stroke-opacity:1;stroke-dasharray:none"
+           style="fill:#ffffff;stroke:#ffffff;stroke-width:0.06849463000000000;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.61310004999999990;stroke-opacity:1;stroke-dasharray:none"
            d="m 112.17,184.63125 -0.8225,-4.46 -2.815,-1.09875 m 35.4075,5.8325 -0.8225,-4.46125 -2.815,-1.09625 m -18.38875,18.39 0,-6.1075"
            inkscape:connector-curvature="0" />
       </g>
