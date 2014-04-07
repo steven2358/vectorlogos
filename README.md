@@ -18,7 +18,8 @@ Included logos
 --------------
 
 ### ICASSP 2014
-![ICASSP 2013](https://raw.github.com/steven2358/vectorlogos/master/logos/icassp2014_logo_light.png)
+![ICASSP 2014](https://raw.github.com/steven2358/vectorlogos/master/logos/icassp2014_logo.png)
+![ICASSP 2014](https://raw.github.com/steven2358/vectorlogos/master/logos/icassp2014_logo_light.png)
 
 ### ICASSP 2013
 ![ICASSP 2013](https://raw.github.com/steven2358/vectorlogos/master/logos/icassp2013_logo.png)
