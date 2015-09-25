@@ -57,3 +57,5 @@ This logo includes the notorious missing dot.
 Disclaimer
 ----------
 All logos are copyright &copy; their respective copyright owners. I merely converted them to vector format to avoid aesthetic catastrophes.
+
+PRISMA Project logo is copyright &copy; 2015 Steven Van Vaerenbergh.
