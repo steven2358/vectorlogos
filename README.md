@@ -54,6 +54,9 @@ This logo includes the notorious missing dot.
 ![ERC](https://raw.github.com/steven2358/vectorlogos/master/logos/erc_logo.png)
 ![ERC](https://raw.github.com/steven2358/vectorlogos/master/logos/erc_logo_light.png)
 
+### Sapienza Universita de Roma
+![SAPIENZA](https://raw.github.com/steven2358/vectorlogos/master/logos/sapienza_logo_portrait.png)
+
 Disclaimer
 ----------
 All logos are copyright &copy; their respective copyright owners. I merely converted them to vector format to avoid aesthetic catastrophes.
