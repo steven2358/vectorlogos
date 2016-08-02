@@ -57,6 +57,12 @@ This logo includes the notorious missing dot.
 ### Sapienza Universita de Roma
 ![SAPIENZA](https://raw.github.com/steven2358/vectorlogos/master/logos/sapienza_logo_portrait.png)
 
+### Colorado State University
+![CSU](https://raw.github.com/steven2358/vectorlogos/master/logos/csu_logo_portrait_reversed.png)
+
+### Arizona State University
+![ASU](https://raw.github.com/steven2358/vectorlogos/master/logos/asu_logo_portrait_reversed.png)
+
 Disclaimer
 ----------
 All logos are copyright &copy; their respective copyright owners. I merely converted them to vector format to avoid aesthetic catastrophes.
