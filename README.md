@@ -60,8 +60,11 @@ This logo includes the notorious missing dot.
 ### Colorado State University
 ![CSU](https://raw.github.com/steven2358/vectorlogos/master/logos/csu_logo_portrait_reversed.png)
 
-### Arizona State University
-![ASU](https://raw.github.com/steven2358/vectorlogos/master/logos/asu_logo_portrait_reversed.png)
+### Universidad Internacional Menendez Pelayo
+![UIMP](https://raw.github.com/steven2358/vectorlogos/master/logos/uimp_logo.png)
+
+### Consejo Superior de Investigaciones Científicas
+![CSIC](https://raw.github.com/steven2358/vectorlogos/master/logos/csic_logo.png)
 
 Disclaimer
 ----------
