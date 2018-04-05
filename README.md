@@ -66,6 +66,9 @@ This logo includes the notorious missing dot.
 ### Consejo Superior de Investigaciones Científicas
 ![CSIC](https://raw.github.com/steven2358/vectorlogos/master/logos/csic_logo.png)
 
+### IMT Lille Douai
+![IMT Lille Douai](https://raw.github.com/steven2358/vectorlogos/master/logos/imt_lille_douai_logo.png)
+
 Disclaimer
 ----------
 All logos are copyright &copy; their respective copyright owners. I merely converted them to vector format to avoid aesthetic catastrophes.
